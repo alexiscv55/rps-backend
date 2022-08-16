@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.version",
+    "type": "java.lang.String",
+    "description": "App version to display in api docs"
+  },
+  {
+    "name": "app.title",
+    "type": "java.lang.String",
+    "description": "App title to display in api docs"
+  },
+  {
+    "name": "app.description",
+    "type": "java.lang.String",
+    "description": "App description to display in api docs"
+  }
+]}
